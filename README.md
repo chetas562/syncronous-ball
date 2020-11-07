@@ -1,2 +1,2 @@
-# syncronous-ball
-a unique ball
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
